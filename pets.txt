@@ -1,3 +1,6 @@
 pig
 dog
 elephant
+cat
+chicken
+
